@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+2020-2024
+
+大一在数学学院学习，投生于数学建模、数据分析、市场调查等比赛。大二因无法割舍对开发的热爱，转入计算机学院，系统学习计算机知识，目前走前端方向，以后想朝着基础架构方向学习。
+
+接触前端是从编写一个脚本自动填写调查问卷开始的，同时参加第二届字节青训但应比赛原因摆烂了。之后参加第四届字节青训拓广了知识面，然后在9月份分开始刷题，并系统学习前端，准备找前端实习工作。
+
 <!--
 **MiJiaCoding/MiJiaCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
