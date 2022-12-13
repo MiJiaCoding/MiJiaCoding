@@ -1,7 +1,7 @@
 ### Hi there 
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
+<!--   <a href="https://sunguoqi.com/"> 下次换上自己的博客-->
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;米迦同学祝您今天愉快!&center=true&size=27">
   </a>
 </h1>
