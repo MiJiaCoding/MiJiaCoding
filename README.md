@@ -14,7 +14,7 @@
 2020-2024
 
 大一在数学学院学习，参加过数学建模、数据分析、市场调查等比赛。大二因无法割舍对开发的热爱，转入计算机学院，系统学习计算机知识，目前走前端方向，以后想多学学工程化，做点基建。
-👋 <img align="right" src="https://count.getloli.com/get/@:MiJiaCoding?theme=rule34">
+ <img align="right" src="https://count.getloli.com/get/@:MiJiaCoding?theme=rule34">
 
 个人技能方面确实挺杂的，接触过很多，比如c#的winform做桌面应用，比如matlab，spss进行数据分析，python做简单的爬虫，还有自然语言处理，机器学习，深度学习。java也学过一段时间，搞过数据库，刷过算法。c/c++是学校基础课程学了一点。
 
