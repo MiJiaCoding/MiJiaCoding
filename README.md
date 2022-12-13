@@ -9,6 +9,8 @@
 
 接触前端是从编写一个自动填写调查问卷开始的，同时参加第二届字节青训但因与比赛时间冲突原因摆烂了。之后参加第四届字节青训拓广了知识面同时也获得了一个不错的名次，然后在9月份开始刷题，并系统学习前端，寒假去实习。
 
+![](https://raw.githubusercontent.com/MiJiaCoding/MiJiaCoding/main/assets/github-contribution-grid-snake.svg)
+
 
 ### Github 活跃度
 
