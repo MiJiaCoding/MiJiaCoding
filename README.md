@@ -1,6 +1,6 @@
-### Hi there 👋 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+### Hi there 
 
-
+👋 <img align="right" src="https://count.getloli.com/get/@:MiJiaCoding?theme=rule34">
 2020-2024
 
 大一在数学学院学习，参加过数学建模、数据分析、市场调查等比赛。大二因无法割舍对开发的热爱，转入计算机学院，系统学习计算机知识，目前走前端方向，以后想多学学工程化，做点基建。
