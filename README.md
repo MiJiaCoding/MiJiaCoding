@@ -9,6 +9,19 @@
 
 接触前端是从编写一个自动填写调查问卷开始的，同时参加第二届字节青训但因与比赛时间冲突原因摆烂了。之后参加第四届字节青训拓广了知识面同时也获得了一个不错的名次，然后在9月份开始刷题，并系统学习前端，寒假去实习。
 
+🧰 常用的工具:
+
+&emsp;&emsp; 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+
+
 ![](https://raw.githubusercontent.com/MiJiaCoding/MiJiaCoding/main/assets/github-contribution-grid-snake.svg)
 
 
