@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-### Github 活跃度
-
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
 
 2020-2024
 
@@ -16,17 +9,14 @@
 
 接触前端是从编写一个自动填写调查问卷开始的，同时参加第二届字节青训但因与比赛时间冲突原因摆烂了。之后参加第四届字节青训拓广了知识面同时也获得了一个不错的名次，然后在9月份开始刷题，并系统学习前端，寒假去实习。
 
-<!--
-**MiJiaCoding/MiJiaCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Github 活跃度
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://activity-graph.herokuapp.com/graph?username=MiJiaCoding&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=MiJiaCoding&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiJiaCoding&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiJiaCoding&layout=compact&langs_count=6)
+
+
+
