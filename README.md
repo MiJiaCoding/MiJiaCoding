@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Github 活跃度
+
+[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+
 2020-2024
 
 大一在数学学院学习，参加过数学建模、数据分析、市场调查等比赛。大二因无法割舍对开发的热爱，转入计算机学院，系统学习计算机知识，目前走前端方向，以后想多学学工程化，做点基建。
