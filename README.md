@@ -66,7 +66,7 @@
 
 
 
-![](https://raw.githubusercontent.com/MiJiaCoding/MiJiaCoding/main/assets/github-contribution-grid-snake.svg)
+<!-- ![](https://raw.githubusercontent.com/MiJiaCoding/MiJiaCoding/main/assets/github-contribution-grid-snake.svg) -->
 
 
 
